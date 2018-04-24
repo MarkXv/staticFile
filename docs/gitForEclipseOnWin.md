@@ -2,7 +2,6 @@
 ### 1.新建分支（fork）
 通过Web进入需要新建fork的远端仓库  
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_085324.png)    
-![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-23_190843.png)    
 在相应的仓库中会有一个fork按钮如下图       
 **注意：在登录状态下才有这个按钮**    
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_085629.png)      
@@ -87,7 +86,7 @@ File->Import->Maven
    
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_101059.png)  
 
-或者一些版本使用 Merge进行pull
+或者一些版本使用 Merge进行pull   
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_101520.png)  
 
   
@@ -101,3 +100,6 @@ File->Import->Maven
 		2. package 对当前项目进行打包
 		3. spring-boot 是spring-boot-maven-plugin
 		
+
+
+## 如果有不正确的地方希望大家指正
