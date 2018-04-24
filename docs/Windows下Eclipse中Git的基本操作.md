@@ -15,8 +15,7 @@ fork点击之后会新建相应的分支，并进入相应的分支中
 1.在Explise工具的Windows ->show view->other 下添加Git的  
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_084345.png)  
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_084809.png)  
-
-之后会出现一个新的工作空间
+之后会出现一个新的工作空间   
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_084837.png)  
 
 2.新建一个git链接  
