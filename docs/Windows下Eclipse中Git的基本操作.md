@@ -2,7 +2,6 @@
 ### 1.新建分支（fork）
 通过Web进入需要新建fork的远端仓库  
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_085324.png)    
-![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-23_190843.png)    
 在相应的仓库中会有一个fork按钮如下图       
 **注意：在登录状态下才有这个按钮**    
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_085629.png)      
