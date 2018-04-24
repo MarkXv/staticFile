@@ -1,4 +1,4 @@
-#windows环境下Eclipse中git的基本操作
+# windows环境下Eclipse中git的基本操作
 ### 1.新建分支（fork）
 通过Web进入需要新建fork的远端仓库  
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_085324.png)    
