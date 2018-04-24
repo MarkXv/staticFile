@@ -86,7 +86,7 @@ File->Import->Maven
    
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_101059.png)  
 
-或者一些版本使用 Merge进行pull
+或者一些版本使用 Merge进行pull   
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_101520.png)  
 
   
