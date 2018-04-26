@@ -1,4 +1,12 @@
-# windows环境下Eclipse中git的基本操作
+# windows环境下Eclipse中链接gitlib的基本操作
+>在Eclipse中通过git的一些操作
+### 1.新建分支
+### 2.Eclipse链接gitlib远程仓库
+### 3.仓库中的项目导入到Eclipse中
+### 4.项目的commit and push
+### 5.gitlibweb端请求合并分支
+### 6.远程仓库中的项目同步
+---------------
 ### 1.新建分支（fork）
 通过Web进入需要新建fork的远端仓库  
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_085324.png)    
@@ -90,15 +98,7 @@ File->Import->Maven
 ![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-04-24_101520.png)  
 
   
-### 7.注意事项  
-	在导入项目木之后可能由于导入的是JRE而导致打包启动报错  
-	
-### 8.本示例的启动
-	1. 现行打包core使用Maven Install进行打包将core打包到Maven的本地仓库，其他的项目便可以依赖core  
-	2. 启动api-server 时使用Maven Builde 进行启动（clear package spring-boot:run）
-		1. clean 表示清楚之前的项目保证现在的项目时最新的
-		2. package 对当前项目进行打包
-		3. spring-boot 是spring-boot-maven-plugin
+
 		
 
 
