@@ -6,6 +6,8 @@
 ## 3. 项目中常见操作
 ## 4. 注意
 
+.....
+
 ## 1. 打开明令行窗口
 - 首先平台必须安装git客户端  
 	[git安装包下载](https://github.com/git-for-windows/git/releases/download/v2.17.0.windows.1/Git-2.17.0-64-bit.exe "git的安装")
