@@ -1,6 +1,10 @@
 # git的命令行操作
 >尽量使用明令行对项目进行git操作（gitlib库）  
 
+## 1. 打开明令行窗口  
+## 2. git命令连接gitlib的简单操作
+## 3. 项目中常见操作
+## 4. 注意
 
 ## 1. 打开明令行窗口
 - 首先平台必须安装git客户端  
@@ -15,7 +19,7 @@
 	![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-05-06_150610.png)  
 	在这里如果不能再CMD下使用则将git安装目录下的CMD文件夹路径添加到path环境变量中即可  
 	![](https://github.com/MarkXv/staticFile/blob/master/img/go_git/2018-05-06_151158.png)  
-## 2. git明令连接gitlib的简单操作
+## 2. git命令连接gitlib的简单操作
 > 我们使用git clone明令克隆远端仓库时为克隆的存储库中的每个分支创建远程跟踪分支，我们就有了对远程仓库的跟踪  
 > 如果我们需要新增远端连接通过git remote add来实现  
 > 通过git remote -v查看目前已有的连接
